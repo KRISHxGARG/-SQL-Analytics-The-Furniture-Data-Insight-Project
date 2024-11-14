@@ -1,4 +1,4 @@
-####  SQL-Analytics-The-Furniture-Data-Insight-Project
+####  SQL Analytics-The Furniture Data Insight Project
 <br>
 
 ##### The Home Furniture Pvt. Ltd. SQL project analyzes sales data with the objective of extracting actionable insight for business growth. Relational databases from raw sales data enabled a closer analysis of key performance metrics by category, brand, and store type.
